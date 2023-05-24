@@ -18,6 +18,7 @@
 
 ### Coding, 
 a). [Download the zipped file in this repository.](https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/blob/main/AzureIotCentralEsp8266DHT.zip)
+
 b). Edits the mandatories in the Arduino Code.
 
 #### DHT configuration
@@ -27,6 +28,7 @@ b). Edits the mandatories in the Arduino Code.
 - Copy paste your wifi creditials as below.
 - You can create a wireless connection with your mobile phone. 
 ```
+
 #define WIFI_SSID "name"
 #define WIFI_PASSWORD "password"
 ```
