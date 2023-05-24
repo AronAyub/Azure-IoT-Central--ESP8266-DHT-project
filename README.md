@@ -11,5 +11,21 @@
 * <img width="869" alt="Screenshot 2023-05-24 210201" src="https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/assets/55284959/a09028fc-11cc-497d-8fdf-b6f1830c5686">
 
 2. By login into the Azure IoT central and creating an application directly.
-gi
+
+### Create Azure IoT Central dashboard and device.
+- Configure the template.
+- Configure the device.
+
+### Coding, 
+a). [Download the zipped file in this repository.](https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/blob/main/AzureIotCentralEsp8266DHT.zip)
+b). Edits the mandatories in the Arduino Code.
+
+#### Network Configuration 
+- Copy paste your wifi creditials as below.
+- You can create a wireless connection with your mobile phone. 
+```
+#define WIFI_SSID "name"
+#define WIFI_PASSWORD "password"
+```
+
 
