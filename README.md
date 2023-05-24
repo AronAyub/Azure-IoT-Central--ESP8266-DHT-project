@@ -43,5 +43,13 @@ const char* SCOPE_ID = "xxxxxxxxxxx";
 const char* DEVICE_ID = "yyyyyyyyyyyyy";
 const char* DEVICE_KEY = "tttttttttttt";
 ```
+### Troubleshooting 
+* Arduino code not compiling !
+- Make sure you have installed old version of esp8266 library, do not use the latest version.
 
+<img width="866" alt="esparduio" src="https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/assets/55284959/943f1139-5c1d-43c7-8ac6-eed2ae7ebd10">
 
+* Showing null data on Serial monitor !
+
+- Confirm your wiring Circuit diagram.
+- Check pin defination and DHT type you are using .
