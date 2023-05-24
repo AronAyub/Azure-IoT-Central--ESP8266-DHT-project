@@ -1,2 +1,12 @@
 # Azure IoT Central  ESP8266 DHT project
- Send real time data on Azure IoT central 
+- Send real time data on Azure IoT central USING esp8266 and DHT sensor.
+## Steps.
+### Create Azure IoT Account.
+* [Free 200$ credit to get started with Azure](https://azure.microsoft.com/en-us/free/iot/?ef_id=_k_CjwKCAjw67ajBhAVEiwA2g_jEKmTrubEELGFt_WCZo4pVuSlGMyvH6mtm94XVOJZVJeu7qB0fkmfzBoC3VoQAvD_BwE_k_&OCID=AIDcmm4z26duq7_SEM__k_CjwKCAjw67ajBhAVEiwA2g_jEKmTrubEELGFt_WCZo4pVuSlGMyvH6mtm94XVOJZVJeu7qB0fkmfzBoC3VoQAvD_BwE_k_&gclid=CjwKCAjw67ajBhAVEiwA2g_jEKmTrubEELGFt_WCZo4pVuSlGMyvH6mtm94XVOJZVJeu7qB0fkmfzBoC3VoQAvD_BwE)
+
+### Create Azure IoT Central applications.
+* There are two ways to achieve this:
+1. Through the Azure portal, by navigating to Azure market place and searching for Azure IoT Central Application.
+2. By login into the Azure IoT central and creating an application directly.
+gi
+
