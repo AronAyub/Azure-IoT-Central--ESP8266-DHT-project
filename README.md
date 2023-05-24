@@ -7,6 +7,9 @@
 ### Create Azure IoT Central applications.
 * There are two ways to achieve this:
 1. Through the Azure portal, by navigating to Azure market place and searching for Azure IoT Central Application.
+- Click and provide the name and other mandatory details,
+* <img width="869" alt="Screenshot 2023-05-24 210201" src="https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/assets/55284959/a09028fc-11cc-497d-8fdf-b6f1830c5686">
+
 2. By login into the Azure IoT central and creating an application directly.
 gi
 
