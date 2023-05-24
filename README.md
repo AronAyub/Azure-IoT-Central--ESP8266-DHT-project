@@ -24,6 +24,9 @@ b). Edits the mandatories in the Arduino Code.
 #### DHT configuration
 - Edit your dht type - either as DHT22 or DHT11
 - indicate the Digital pin you what to use, they are all in GPIOS, eg, D4 is GPIO2  hence assigned as 2.
+
+* [see the Pinout](<img width="362" alt="Screenshot 2023-05-24 220030" src="https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/assets/55284959/81898100-8144-40a2-8658-061bf858bec8">
+)
 #### Network Configuration 
 - Copy paste your wifi creditials as below.
 - You can create a wireless connection with your mobile phone. 
