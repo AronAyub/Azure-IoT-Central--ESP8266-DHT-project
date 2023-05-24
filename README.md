@@ -54,6 +54,8 @@ const char* DEVICE_KEY = "tttttttttttt";
 - Confirm your wiring Circuit diagram.
 - Check pin defination and DHT type you are using .
 
+<img width="908" alt="nan" src="https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/assets/55284959/22af2108-8dfb-4721-8700-f7d52b474413">
+
 ####  Showing error in connecting to Azure IoT central ?
 - Confirm your connection strings from your device on Azure IoT Central application.
 
