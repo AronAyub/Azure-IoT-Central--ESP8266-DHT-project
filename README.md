@@ -4,7 +4,7 @@
 ### Create Azure IoT Account.
 * [Free 200$ credit to get started with Azure](https://azure.microsoft.com/en-us/free/iot/?ef_id=_k_CjwKCAjw67ajBhAVEiwA2g_jEKmTrubEELGFt_WCZo4pVuSlGMyvH6mtm94XVOJZVJeu7qB0fkmfzBoC3VoQAvD_BwE_k_&OCID=AIDcmm4z26duq7_SEM__k_CjwKCAjw67ajBhAVEiwA2g_jEKmTrubEELGFt_WCZo4pVuSlGMyvH6mtm94XVOJZVJeu7qB0fkmfzBoC3VoQAvD_BwE_k_&gclid=CjwKCAjw67ajBhAVEiwA2g_jEKmTrubEELGFt_WCZo4pVuSlGMyvH6mtm94XVOJZVJeu7qB0fkmfzBoC3VoQAvD_BwE)
 
-### Create Azure IoT Central applications.
+### Create Azure IoT Central application.
 * There are two ways to achieve this:
 1. Through the Azure portal, by navigating to Azure market place and searching for Azure IoT Central Application.
 - Click and provide the name and other mandatory details,
@@ -15,7 +15,7 @@
 ### Create Azure IoT Central dashboard and device.
 - Configure the template.
 - Configure the device.
-
+* (Well explained in the video)
 ### Coding, 
 a). [Download the zipped file in this repository.](https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/blob/main/AzureIotCentralEsp8266DHT.zip)
 
