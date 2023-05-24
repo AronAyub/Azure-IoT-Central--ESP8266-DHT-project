@@ -20,12 +20,23 @@
 a). [Download the zipped file in this repository.](https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/blob/main/AzureIotCentralEsp8266DHT.zip)
 b). Edits the mandatories in the Arduino Code.
 
+#### DHT configuration
+- Edit your dht type - either as DHT22 or DHT11
+- indicate the Digital pin you what to use, they are all in GPIOS, eg, D4 is GPIO2  hence assigned as 2.
 #### Network Configuration 
 - Copy paste your wifi creditials as below.
 - You can create a wireless connection with your mobile phone. 
 ```
 #define WIFI_SSID "name"
 #define WIFI_PASSWORD "password"
+```
+#### Device Configurations 
+- From your created device on IoT Central copy paste the creditials as below:
+
+```
+const char* SCOPE_ID = "xxxxxxxxxxx";
+const char* DEVICE_ID = "yyyyyyyyyyyyy";
+const char* DEVICE_KEY = "tttttttttttt";
 ```
 
 
