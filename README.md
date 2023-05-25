@@ -10,7 +10,7 @@
 * 4. [Troubleshooting](#Troubleshooting)
 	* 4.1. [Arduino code not compiling !](#Arduinocodenotcompiling)
 	* 4.2. [Showing null data on Serial monitor?](#ShowingnulldataonSerialmonitor)
-	* 4.3. [ Showing error in connecting to Azure IoT central ?](#ShowingerrorinconnectingtoAzureIoTcentral)
+	* 4.3. [Error in connecting to Azure IoT central ?](#ErrorinconnectingtoAzureIoTcentral)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -67,9 +67,9 @@ b). Edits the mandatories in the Arduino Code.
 - From your created device on IoT Central copy paste the creditials as below:
 
 ```
-const char* SCOPE_ID = "xxxxxxxxxxx";
-const char* DEVICE_ID = "yyyyyyyyyyyyy";
-const char* DEVICE_KEY = "tttttttttttt";
+const char* SCOPE_ID = "xoopjbjhvgyt";
+const char* DEVICE_ID = "ynmhgtfyddyj";
+const char* DEVICE_KEY = "ttttthhbytdcrgh";
 ```
 ##  4. <a name='Troubleshooting'></a>Troubleshooting 
 ###  4.1. <a name='Arduinocodenotcompiling'></a>Arduino code not compiling !
@@ -84,7 +84,7 @@ const char* DEVICE_KEY = "tttttttttttt";
 
 <img width="908" alt="nan" src="https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/assets/55284959/22af2108-8dfb-4721-8700-f7d52b474413">
 
-###  4.3. <a name='ShowingerrorinconnectingtoAzureIoTcentral'></a> Showing error in connecting to Azure IoT central ?
+###  4.3. <a name='ErrorinconnectingtoAzureIoTcentral'></a>Error in connecting to Azure IoT central ?
 - Confirm your connection strings from your device on Azure IoT Central application.
 
 <img width="761" alt="error get" src="https://github.com/AronAyub/Azure-IoT-Central--ESP8266-DHT-project/assets/55284959/b9eb3010-86e9-410d-9e13-906a2f680a3b">
