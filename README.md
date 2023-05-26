@@ -19,9 +19,11 @@
 <!-- /vscode-markdown-toc -->
 
 # Azure IoT Central  ESP8266 DHT project
-<img width="717" alt="realtime" src="https://github.com/AronAyub/Azure-IoT-Raspberry-Pi/assets/55284959/2244e9c5-de57-45a0-ad8d-6047c1b9f51a">
+
+* <img width="717" alt="realtime" src="https://github.com/AronAyub/Azure-IoT-Raspberry-Pi/assets/55284959/2244e9c5-de57-45a0-ad8d-6047c1b9f51a">
 
 -  Send real time data on Azure IoT central using esp8266 and DHT sensor.
+
 **Steps.**
 ##  1. <a name='CreateAzureAccount.'></a>Create Azure Account.
 
